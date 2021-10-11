@@ -1,0 +1,4 @@
+my.server.com
+ronny
+password
+/home/ronny/public-ip
