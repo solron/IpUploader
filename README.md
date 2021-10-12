@@ -69,7 +69,7 @@ echo $_SERVER['REMOTE_ADDR'];
 ```
 
 A successful run:<br>
-![alt public ip screenshot](http://web.home/pics/gitlab/iptool.jpg)
+![alt public ip screenshot](https://soltveit.org/files/iptool.jpg)
 
 ## TODO
 - Encrypt password in config.txt<br>
